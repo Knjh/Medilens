@@ -1,0 +1,25 @@
+Possible Medicines for Bladder Cancer:
+
+Based on the information provided, the presence of pus cells and hematuria in urine may indicate bladder cancer. However, it is important to note that this is just a potential diagnosis, and further medical evaluation is necessary for confirmation. Here are some possible medicines that may be recommended for bladder cancer:
+
+ Chemotherapy:
+     Cisplatin
+     Carboplatin
+     Paclitaxel
+     Gemcitabine
+ Immunotherapy:
+     BCG (Bacillus Calmette-Guerin)
+     Atezolizumab
+     Pembrolizumab
+ Targeted Therapy:
+     Erlotinib
+     Gefitinib
+     Afatinib
+ Surgery:
+     Transurethral resection of bladder tumor (TURBT)
+     Cystectomy (removal of the bladder)
+ Radiation Therapy:
+     External beam radiation therapy
+     Brachytherapy (internal radiation)
+
+It is crucial to consult with a healthcare professional for an accurate diagnosis and personalized treatment plan. Self-medication is not recommended for bladder cancer or any other medical condition.
